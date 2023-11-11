@@ -1,3 +1,4 @@
+//Meantisiyakonrn Suppraphakorn
 function sum(a, b) {
     if (Array.isArray(a)) {
     return a.reduce((acc, n) => acc + n, 0)
